@@ -24,7 +24,7 @@ endLimit: '  _*〚❌〛𝐋𝐢𝐦𝐢𝐭𝐞 𝐚𝐜𝐚𝐛𝐚𝐝𝐨!!*
 }
 
 //≪━─━─━─〚 𝐅𝐎𝐓𝐎 𝐓𝐇𝐔𝐌𝐁 〛─━─━─━≫\\
-global.thumb = fs.readFileSync('./media/Yumeko.jpg')
+global.thumb = fs.readFileSync('./media/yumeko.jpg')
 global.menu = fs.readFileSync('./media/menus/menu.jpg')
 global.menugrupo = fs.readFileSync('./media/menus/menuadm.jpg')
 global.descargas = fs.readFileSync('./media/menus/descargas.jpg')
