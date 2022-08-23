@@ -7,7 +7,7 @@ global.ownerName = '♦⏤͟͟͞͞𝒀𝑼𝑴𝜮𝑲𝚯-𝑩𝚯𝑻♦'
 global.packname = ''
 global.author = '    ♦️ [ STICKER MAKER ] ♠️\n\nby: Yumeko - MD'
 global.prefa = ['','!','.','#','!'] // Si prefieres dejar el bot sin prefijo ''
-global.sessionName = 'qr'
+global.sessionName = 'qrr'
 
 //≪━─━─━─〚 𝐌𝐄𝐍𝐒𝐀𝐉𝐄𝐒 〛─━─━─━≫\\
 global.mess = {
