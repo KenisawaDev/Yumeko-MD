@@ -59,7 +59,7 @@ console.log(err)
 })
 
 //≪━─━─━─〚 𝐀𝐂𝐓𝐔𝐀𝐋𝐈𝐙𝐀𝐂𝐈𝐎𝐍 𝐃𝐄𝐋 𝐆𝐑𝐔𝐏𝐎 〛─━─━─━≫\\
-Yumeko.ev.on('group-participants.update', async (anu) => {
+/*Yumeko.ev.on('group-participants.update', async (anu) => {
 console.log(anu)
 //≪━─━─━─〚 𝐁𝐈𝐄𝐍𝐕𝐄𝐍𝐈𝐃𝐀 〛─━─━─━≫\\
 try {
@@ -82,7 +82,7 @@ Yumeko.sendMessage(anu.id, { image: { url: ppuser }, contextInfo: { mentionedJid
 } catch (err) {
 console.log(err)
 }
-})
+})*/
 
 //≪━─━─━─〚 𝐂𝐎𝐍𝐄𝐗𝐈𝐎𝐍 𝐀𝐂𝐓𝐈𝐕𝐀 〛─━─━─━≫\\
 Yumeko.ev.on('connection.update', async (update) => {
