@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //≪━─━─━─〚 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐂𝐈𝐎𝐍 〛─━─━─━≫\\
-global.ownerNumber = ['5493865392125','5493865221136','0']
+global.ownerNumber = ['5493865392125','0']
 global.ownerName = '♦⏤͟͟͞͞𝒀𝑼𝑴𝜮𝑲𝚯-𝑩𝚯𝑻♦'
 global.packname = ''
 global.author = '    ♦️ [ STICKER MAKER ] ♠️\n\nby: Yumeko - MD'
